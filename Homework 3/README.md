@@ -1,6 +1,6 @@
-#Create a new Expo project: Named Todo-List
+Create a new Expo project: Named Todo-List
 
-#Replace the contents of App.js with a layout that includes:
+Replace the contents of App.js with a layout that includes:
 
     A TextInput for entering new tasks.
 
@@ -10,7 +10,7 @@
 
     A delete button/icon for each task.
 
-#Style your app:
+Style your app:
 
     Input field at the top.
 
