@@ -1,11 +1,12 @@
 # Welcome to your Expo app
 
+This must be ran in command promt or powershell.
 This is an [Expo](https://expo.dev) project created with [`npx create-expo-app {app-name} --template blank`](https://www.npmjs.com/package/create-expo-app).
 
 
-## Get started
+## Get started in your terminal 
 
-1. Install dependencies
+1.Install dependencies
 
    ```bash
    npm install
