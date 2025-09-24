@@ -1,4 +1,18 @@
+# Welcome to your Homework Expo app
 
+This is an [Expo](https://expo.dev) project created with [`npx create-expo-app --blank`]
+
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Start the app
+
+   ```bash
+   npx expo start
+   ```
 # Learning Outcomes 
     Set up React Navigation in an Expo app.
 
