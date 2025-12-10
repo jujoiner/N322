@@ -1,7 +1,7 @@
 
 ## 📋 Overview
 
-This is an N322 course final project that demonstrates a expo mobile application with:
+This is an N322 course final project that demonstrates an expo mobile application with:
 - User authentication (sign in/sign out)
 - Tab-based navigation for different app sections
 - Firebase integration for backend services
@@ -56,10 +56,11 @@ N322FinalAppNODE/
 
 3. **Configure Firebase:**
    - Update `src/firebase/firebaseConfig.js` with your Firebase project credentials
+   -   - Ensure Firestore is enabled in your Firebase project
      
 4. **Start the app**
    ```bash
    npx expo start
    ```
 
-   -   - Ensure Firestore is enabled in your Firebase project
+
